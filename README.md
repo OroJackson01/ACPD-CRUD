@@ -22,7 +22,7 @@ Este proyecto es parte integral de nuestro trabajo académico en la asignatura A
 [acpd.cleverapps.io
 ](https://acpd.cleverapps.io/)
 
-**Equipo ACPD-CLOUD**
+**Equipo ACPD**
 
 Á & A
 
