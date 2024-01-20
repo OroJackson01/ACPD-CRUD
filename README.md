@@ -1,6 +1,6 @@
-# ACPD-CLOUD
+# ACPD
 
-Bienvenido al repositorio del proyecto ACPD-CLOUD. Este trabajo forma parte de la asignatura ACPD y busca abordar diversos aspectos relacionados con la computacion en la nube.
+Bienvenido al repositorio del proyecto ACPD. Este trabajo forma parte de la asignatura ACPD(Arquitectura de computadores paralelas y distribuidas) y busca abordar diversos aspectos relacionados con la computacion en la nube.
 
 ## Descripción del Proyecto
 
@@ -18,13 +18,11 @@ El objetivo principal de este proyecto es descubrir los propositos de la computa
 
 Este proyecto es parte integral de nuestro trabajo académico en la asignatura ACPD. Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros. ¡Gracias por explorar nuestro repositorio! 
 
-Email de contacto -> JonSmithSoluciones@proton.me
-
 ### Página Web 
 [acpd.cleverapps.io
 ](https://acpd.cleverapps.io/)
 
 **Equipo ACPD-CLOUD**
 
-Á & A a.k.a Jon Smith Soluciones
+Á & A
 
